@@ -1,0 +1,22 @@
+$bp-tablet: 768px;
+$bp-tablet-horizontal: 1024px;
+$bp-desktop: 1200px;
+$bp-desktop-xl: 1440px;
+
+
+$primary-font: "Plus Jakarta Sans", sans-serif;
+
+//Colors
+$blue: #666CA3;
+$marine: #4851FF;
+$darkblue: #13183F;
+$grey: #83869A;
+$darkpink: #F74780;
+$pink: #FFA7C3;
+$white: #FFFFFF;
+$orange: #FF6F48;
+$magenta: #F02AA6;
+
+
+$gradient-pink-orange: linear-gradient(180deg, $orange 0%, $magenta 100%);
+$gradient-pink-blue: linear-gradient(180deg, $marine 0%, $magenta 100%);
