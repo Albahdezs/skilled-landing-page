@@ -15,7 +15,8 @@ Ejercicio ficticio de landing page completamente responsive _Mobile-First_.
 
 ## 🚀 Demo en vivo
 
-[Visita la página](https://albahdezs.github.io/skilled-landing-page/)
+[Visita la página](https://albahdezs.github.io/skilled-landing-page/)<br>
+(Abrir en una nueva pestaña con Ctrl/Cmd + Click)
 
 ---
 
@@ -27,11 +28,11 @@ Ejercicio ficticio de landing page completamente responsive _Mobile-First_.
 
 ### Tablet
 
-![Image](https://github.com/user-attachments/assets/ab3e56e6-1a74-4b83-a341-5beafdfff210 | width=768)
+<img src="https://github.com/user-attachments/assets/ab3e56e6-1a74-4b83-a341-5beafdfff210" alt="tablet" width="50%"/>
 
 ### Smartphone
+<img src="https://github.com/user-attachments/assets/26a13067-48f3-4658-b4d3-fa0b04cf1930" alt="tablet" width="30%"/>
 
-![Image](https://github.com/user-attachments/assets/26a13067-48f3-4658-b4d3-fa0b04cf1930 | width=300)
 
 ---
 
