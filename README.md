@@ -27,11 +27,11 @@ Ejercicio ficticio de landing page completamente responsive _Mobile-First_.
 
 ### Tablet
 
-![Image](https://github.com/user-attachments/assets/ab3e56e6-1a74-4b83-a341-5beafdfff210)
+![Image](https://github.com/user-attachments/assets/ab3e56e6-1a74-4b83-a341-5beafdfff210 | width=768)
 
 ### Smartphone
 
-![Image](https://github.com/user-attachments/assets/26a13067-48f3-4658-b4d3-fa0b04cf1930)
+![Image](https://github.com/user-attachments/assets/26a13067-48f3-4658-b4d3-fa0b04cf1930 | width=300)
 
 ---
 
